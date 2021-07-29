@@ -5,6 +5,12 @@
 
 /**
  * Computes the sum of two bits.
+ * truth table
+ * a b sum carry
+ * 0 0 0 0 
+ * 0 1 1 0
+ * 1 0 1 0 
+ * 1 1 0 1
  */
 
 CHIP HalfAdder {
